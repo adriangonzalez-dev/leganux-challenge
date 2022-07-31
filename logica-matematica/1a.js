@@ -60,5 +60,3 @@ QUnit.test('calc()', assert => {
                         'La cadena ingresada debe ser menor a 30 carácteres',
                         'calc("6-5/5+2-7+5-4*3+5+1+6-5/5+2-7+5-4*3+5+1+6-5/5+2-7+5-4*3+5+1")');
   });
-
-console.log(calc('6-5/5+2-7+5-4*3+5+1'))
