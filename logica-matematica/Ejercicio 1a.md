@@ -15,7 +15,7 @@
 
 #### prevNum(symbol)
 * @param symbol - el símbolo a evaluar
- * Toma un símbolo y devuelve el índice de la última aparición de ese símbolo en la cadena, más uno.
+ * Toma un símbolo y devuelve el índice de la última aparición de ese símbolo en la cadena, menos uno.
  * Se utiliza el indice del símbolo y se le resta 1 para hallar el indice del número anterior al símbolo.
 
 #### nextNum(symbol)
