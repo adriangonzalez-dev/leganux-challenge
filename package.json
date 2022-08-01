@@ -1,0 +1,27 @@
+{
+  "name": "api-leganux",
+  "version": "1.0.0",
+  "description": "API creada para Leganux",
+  "main": "/desarrollo-integración de API/API/app.js",
+  "scripts": {
+    "start": "node desarrollo-integración-api/API/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriangonzalez-dev/leganux-challenge.git"
+  },
+  "author": "adriramone90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriangonzalez-dev/leganux-challenge/issues"
+  },
+  "homepage": "https://github.com/adriangonzalez-dev/leganux-challenge#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "method-override": "^3.0.0",
+    "moongose": "^1.0.0"
+  }
+}
